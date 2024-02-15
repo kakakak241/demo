@@ -1,0 +1,9 @@
+insert into task (description, status, creation_date) values ('Task 1', 'IN_PROGRESS', '2022-01-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 2', 'COMPLETED', '2021-02-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 3', 'COMPLETED', '2021-02-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 4', 'IN_PROGRESS', '2023-02-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 5', 'NOT_COMPLETED', '2021-02-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 6', 'IN_PROGRESS', '2022-02-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 7', 'COMPLETED', '2021-02-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 8', 'IN_PROGRESS', '2021-02-01 00:00:00');
+insert into task (description, status, creation_date) values ('Task 9', 'NOT_COMPLETED', '2021-02-01 00:00:00');
